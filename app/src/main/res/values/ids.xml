@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="id">
+    <item name="call" type="id">call</item>
+    <item name="imageView2" type="id">imageView2</item>
+    <item name="name" type="id">name</item>
+    <item name="shapeableImageView" type="id">shapeableImageView</item>
+    <item name="textView" type="id">textView</item>
+    <item name="city" type="id">city</item>
+    <item name="more" type="id">more</item>
+    <item name="textcall" type="id">textcall</item>
+    <item name="textmessage" type="id">textmessage</item>
+    <item name="textmore" type="id">textmore</item>
+    </dimen>
+</resources>
